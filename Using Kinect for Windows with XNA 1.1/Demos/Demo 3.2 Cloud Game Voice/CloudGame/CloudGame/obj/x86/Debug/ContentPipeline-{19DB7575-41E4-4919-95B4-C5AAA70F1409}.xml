@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Cloud.png</Source>
+      <Name>Cloud</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Desktop\Kinect Courseware\Demos\Demo 3.2 Cloud Game Voice\CloudGame\CloudGame\bin\x86\Debug\Content\Cloud.xnb</Output>
+      <Time>2012-01-20T16:11:26.7137342+00:00</Time>
+    </Item>
+    <Item>
+      <Source>pin.png</Source>
+      <Name>pin</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Desktop\Kinect Courseware\Demos\Demo 3.2 Cloud Game Voice\CloudGame\CloudGame\bin\x86\Debug\Content\pin.xnb</Output>
+      <Time>2012-01-20T16:15:28.8885858+00:00</Time>
+    </Item>
+    <Item>
+      <Source>whiteDot.png</Source>
+      <Name>whiteDot</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Desktop\Kinect Courseware\Demos\Demo 3.2 Cloud Game Voice\CloudGame\CloudGame\bin\x86\Debug\Content\whiteDot.xnb</Output>
+      <Time>2012-01-20T16:22:14.4887848+00:00</Time>
+    </Item>
+    <Item>
+      <Source>CloudGameBackground.png</Source>
+      <Name>CloudGameBackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Desktop\Kinect Courseware\Demos\Demo 3.2 Cloud Game Voice\CloudGame\CloudGame\bin\x86\Debug\Content\CloudGameBackground.xnb</Output>
+      <Time>2012-03-08T14:25:24.6599543+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Pop.wav</Source>
+      <Name>Pop</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Desktop\Kinect Courseware\Demos\Demo 3.2 Cloud Game Voice\CloudGame\CloudGame\bin\x86\Debug\Content\Pop.xnb</Output>
+      <Time>2012-01-20T16:11:35.2752239+00:00</Time>
+    </Item>
+    <Item>
+      <Source>MessageFont.spritefont</Source>
+      <Name>MessageFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Desktop\Kinect Courseware\Demos\Demo 3.2 Cloud Game Voice\CloudGame\CloudGame\bin\x86\Debug\Content\MessageFont.xnb</Output>
+      <Time>2012-01-20T16:18:34.4221977+00:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{19DB7575-41E4-4919-95B4-C5AAA70F1409}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Rob\Desktop\Kinect Courseware\Demos\Demo 3.2 Cloud Game Voice\CloudGame\CloudGameContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Rob\Desktop\Kinect Courseware\Demos\Demo 3.2 Cloud Game Voice\CloudGame\CloudGame\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Rob\Desktop\Kinect Courseware\Demos\Demo 3.2 Cloud Game Voice\CloudGame\CloudGame\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Rob\Desktop\Kinect Courseware\Demos\Demo 3.2 Cloud Game Voice\CloudGame\CloudGame\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2011-11-28T12:38:27.578289+00:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

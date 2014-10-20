@@ -1,0 +1,6 @@
+Content\Cloud.xnb
+Content\pin.xnb
+Content\whiteDot.xnb
+Content\CloudGameBackground.xnb
+Content\Pop.xnb
+Content\MessageFont.xnb

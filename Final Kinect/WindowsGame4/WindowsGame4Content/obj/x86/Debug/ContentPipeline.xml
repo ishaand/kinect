@@ -1,0 +1,663 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline" xmlns:Framework="Microsoft.Xna.Framework" xmlns:Processors="Microsoft.Xna.Framework.Content.Pipeline.Processors">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>hand.png</Source>
+      <Name>hand</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ISHAAN\Desktop\KINECT\Final Kinect\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\hand.xnb</Output>
+      <Time>2012-06-29T13:02:12+05:30</Time>
+    </Item>
+    <Item>
+      <Source>BeachBallTexture.png</Source>
+      <Name>BeachBallTexture</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ISHAAN\Desktop\KINECT\Final Kinect\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\BeachBallTexture.xnb</Output>
+      <Time>2012-06-29T13:02:08+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Cloud.png</Source>
+      <Name>Cloud</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ISHAAN\Desktop\KINECT\Final Kinect\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\Cloud.xnb</Output>
+      <Time>2012-06-29T13:02:08+05:30</Time>
+    </Item>
+    <Item>
+      <Source>c2.png</Source>
+      <Name>c2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ISHAAN\Desktop\KINECT\Final Kinect\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\c2.xnb</Output>
+      <Time>2012-06-29T13:02:08+05:30</Time>
+    </Item>
+    <Item>
+      <Source>c3.png</Source>
+      <Name>c3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ISHAAN\Desktop\KINECT\Final Kinect\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\c3.xnb</Output>
+      <Time>2012-06-29T13:02:08+05:30</Time>
+    </Item>
+    <Item>
+      <Source>stage.jpg</Source>
+      <Name>stage</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ISHAAN\Desktop\KINECT\Final Kinect\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\stage.xnb</Output>
+      <Time>2012-06-29T13:02:12+05:30</Time>
+    </Item>
+    <Item>
+      <Source>thanks.png</Source>
+      <Name>thanks</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ISHAAN\Desktop\KINECT\Final Kinect\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\thanks.xnb</Output>
+      <Time>2012-06-29T13:02:12+05:30</Time>
+    </Item>
+    <Item>
+      <Source>square.png</Source>
+      <Name>square</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ISHAAN\Desktop\KINECT\Final Kinect\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\square.xnb</Output>
+      <Time>2012-06-29T13:02:12+05:30</Time>
+    </Item>
+    <Item>
+      <Source>BeachBall.fbx</Source>
+      <Name>BeachBall</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ISHAAN\Desktop\KINECT\Final Kinect\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\BeachBall.xnb</Output>
+      <Time>2012-06-04T13:50:42+05:30</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\BeachBall_0.xml</Key>
+        <Value>2012-08-29T17:55:32.450514+05:30</Value>
+      </Dependency>
+      <Request>C:\Users\ISHAAN\Desktop\KINECT\Final Kinect\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\BeachBallTexture_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>cowboyhat.fbx</Source>
+      <Name>cowboyhat</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ISHAAN\Desktop\KINECT\Final Kinect\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\cowboyhat.xnb</Output>
+      <Time>2012-06-06T12:52:14+05:30</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\cowboyhat_0.xml</Key>
+        <Value>2012-08-29T17:55:33.1213152+05:30</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>hat.FBX</Source>
+      <Name>hat</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ISHAAN\Desktop\KINECT\Final Kinect\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\hat.xnb</Output>
+      <Time>2012-06-12T18:25:28+05:30</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\hat_0.xml</Key>
+        <Value>2012-08-29T17:55:33.2617154+05:30</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>cowboyhat1.fbx</Source>
+      <Name>cowboyhat1</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ISHAAN\Desktop\KINECT\Final Kinect\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\cowboyhat1.xnb</Output>
+      <Time>2012-06-12T18:49:22+05:30</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\cowboyhat1_0.xml</Key>
+        <Value>2012-08-29T17:55:33.5113158+05:30</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>hat2.FBX</Source>
+      <Name>hat2</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ISHAAN\Desktop\KINECT\Final Kinect\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\hat2.xnb</Output>
+      <Time>2012-06-13T16:37:56+05:30</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\hat2_0.xml</Key>
+        <Value>2012-08-29T17:55:33.6361161+05:30</Value>
+      </Dependency>
+      <Request>C:\Users\ISHAAN\Desktop\KINECT\Final Kinect\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\BeachBallTexture_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>sun.FBX</Source>
+      <Name>sun</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ISHAAN\Desktop\KINECT\Final Kinect\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\sun.xnb</Output>
+      <Time>2012-06-16T17:53:10+05:30</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\sun_0.xml</Key>
+        <Value>2012-08-29T17:55:33.8389164+05:30</Value>
+      </Dependency>
+      <Request>C:\Users\ISHAAN\Desktop\KINECT\Final Kinect\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\Agni-Baume-land_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>sun1.FBX</Source>
+      <Name>sun1</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ISHAAN\Desktop\KINECT\Final Kinect\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\sun1.xnb</Output>
+      <Time>2012-06-18T22:51:56+05:30</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\sun1_0.xml</Key>
+        <Value>2012-08-29T22:58:28.9970154+05:30</Value>
+      </Dependency>
+      <Request>C:\Users\ISHAAN\Desktop\KINECT\Final Kinect\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\Agni-Baume-land_1.xnb</Request>
+    </Item>
+    <Item>
+      <Source>earth1.FBX</Source>
+      <Name>earth1</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ISHAAN\Desktop\KINECT\Final Kinect\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\earth1.xnb</Output>
+      <Time>2012-06-18T23:45:20+05:30</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\earth1_0.xml</Key>
+        <Value>2012-08-29T22:58:30.4010179+05:30</Value>
+      </Dependency>
+      <Request>C:\Users\ISHAAN\Desktop\KINECT\Final Kinect\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\2_no_clouds_8k_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>moon1.FBX</Source>
+      <Name>moon1</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ISHAAN\Desktop\KINECT\Final Kinect\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\moon1.xnb</Output>
+      <Time>2012-06-19T00:38:42+05:30</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\moon1_0.xml</Key>
+        <Value>2012-08-29T22:58:32.2418211+05:30</Value>
+      </Dependency>
+      <Request>C:\Users\ISHAAN\Desktop\KINECT\Final Kinect\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\213_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>moon2.FBX</Source>
+      <Name>moon2</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ISHAAN\Desktop\KINECT\Final Kinect\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\moon2.xnb</Output>
+      <Time>2012-06-19T01:53:50+05:30</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\moon2_0.xml</Key>
+        <Value>2012-08-29T22:58:33.0530226+05:30</Value>
+      </Dependency>
+      <Request>C:\Users\ISHAAN\Desktop\KINECT\Final Kinect\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\213_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>mercury1.FBX</Source>
+      <Name>mercury1</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ISHAAN\Desktop\KINECT\Final Kinect\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\mercury1.xnb</Output>
+      <Time>2012-06-19T18:49:04+05:30</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\mercury1_0.xml</Key>
+        <Value>2012-08-29T22:58:33.7082237+05:30</Value>
+      </Dependency>
+      <Request>C:\Users\ISHAAN\Desktop\KINECT\Final Kinect\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\mercury_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>venus2.FBX</Source>
+      <Name>venus2</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ISHAAN\Desktop\KINECT\Final Kinect\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\venus2.xnb</Output>
+      <Time>2012-06-19T18:49:04+05:30</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\venus2_0.xml</Key>
+        <Value>2012-08-29T22:58:34.5662252+05:30</Value>
+      </Dependency>
+      <Request>C:\Users\ISHAAN\Desktop\KINECT\Final Kinect\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\32_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>hat5.FBX</Source>
+      <Name>hat5</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ISHAAN\Desktop\KINECT\Final Kinect\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\hat5.xnb</Output>
+      <Time>2012-06-20T02:44:26+05:30</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\hat5_0.xml</Key>
+        <Value>2012-08-29T22:58:34.9250259+05:30</Value>
+      </Dependency>
+      <Request>C:\Users\ISHAAN\Desktop\KINECT\Final Kinect\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\hat4_0.xnb</Request>
+      <Request>C:\Users\ISHAAN\Desktop\KINECT\Final Kinect\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\hat3_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>wand.FBX</Source>
+      <Name>wand</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ISHAAN\Desktop\KINECT\Final Kinect\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\wand.xnb</Output>
+      <Time>2012-06-20T16:16:38+05:30</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\wand_0.xml</Key>
+        <Value>2012-08-29T22:58:35.7830274+05:30</Value>
+      </Dependency>
+      <Request>C:\Users\ISHAAN\Desktop\KINECT\Final Kinect\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\wand_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>rabbit.FBX</Source>
+      <Name>rabbit</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ISHAAN\Desktop\KINECT\Final Kinect\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\rabbit.xnb</Output>
+      <Time>2012-06-22T14:51:48+05:30</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\rabbit_0.xml</Key>
+        <Value>2012-08-29T22:58:36.4226285+05:30</Value>
+      </Dependency>
+      <Request>C:\Users\ISHAAN\Desktop\KINECT\Final Kinect\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\Rabbid\rabbid eye_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>font.spritefont</Source>
+      <Name>font</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ISHAAN\Desktop\KINECT\Final Kinect\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\font.xnb</Output>
+      <Time>2012-06-04T20:06:20+05:30</Time>
+    </Item>
+    <Item>
+      <Source>stars.wmv</Source>
+      <Name>stars</Name>
+      <Importer>WmvImporter</Importer>
+      <Processor>VideoProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ISHAAN\Desktop\KINECT\Final Kinect\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\stars.xnb</Output>
+      <Extra>C:\Users\ISHAAN\Desktop\KINECT\Final Kinect\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\stars.wmv</Extra>
+      <Time>2012-06-29T13:02:04+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Clouds.wmv</Source>
+      <Name>Clouds</Name>
+      <Importer>WmvImporter</Importer>
+      <Processor>VideoProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ISHAAN\Desktop\KINECT\Final Kinect\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\Clouds.xnb</Output>
+      <Extra>C:\Users\ISHAAN\Desktop\KINECT\Final Kinect\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\Clouds.wmv</Extra>
+      <Time>2012-06-29T13:02:04+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Clouds2.wmv</Source>
+      <Name>Clouds2</Name>
+      <Importer>WmvImporter</Importer>
+      <Processor>VideoProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ISHAAN\Desktop\KINECT\Final Kinect\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\Clouds2.xnb</Output>
+      <Extra>C:\Users\ISHAAN\Desktop\KINECT\Final Kinect\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\Clouds2.wmv</Extra>
+      <Time>2012-06-29T13:02:04+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Pop.wav</Source>
+      <Name>Pop</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ISHAAN\Desktop\KINECT\Final Kinect\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\Pop.xnb</Output>
+      <Time>2012-06-21T19:00:36+05:30</Time>
+    </Item>
+    <Item>
+      <Source>BeachBall.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\BeachBall_0.xml</Output>
+      <Time>2012-06-04T13:50:42+05:30</Time>
+    </Item>
+    <Item>
+      <Source>BeachBallTexture.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\ISHAAN\Desktop\KINECT\Final Kinect\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\BeachBallTexture_0.xnb</Output>
+      <Time>2012-06-29T13:02:08+05:30</Time>
+    </Item>
+    <Item>
+      <Source>cowboyhat.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\cowboyhat_0.xml</Output>
+      <Time>2012-06-06T12:52:14+05:30</Time>
+    </Item>
+    <Item>
+      <Source>hat.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\hat_0.xml</Output>
+      <Time>2012-06-12T18:25:28+05:30</Time>
+    </Item>
+    <Item>
+      <Source>cowboyhat1.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\cowboyhat1_0.xml</Output>
+      <Time>2012-06-12T18:49:22+05:30</Time>
+    </Item>
+    <Item>
+      <Source>hat2.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\hat2_0.xml</Output>
+      <Time>2012-06-13T16:37:56+05:30</Time>
+    </Item>
+    <Item>
+      <Source>sun.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\sun_0.xml</Output>
+      <Time>2012-06-16T17:53:10+05:30</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\ISHAAN\Desktop\Downloads\Sun\Sun\Textures\Agni-Baume-land.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\ISHAAN\Desktop\KINECT\Final Kinect\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\Agni-Baume-land_0.xnb</Output>
+      <Time>2008-04-26T12:58:12+05:30</Time>
+    </Item>
+    <Item>
+      <Source>sun1.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\sun1_0.xml</Output>
+      <Time>2012-06-18T22:51:56+05:30</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\ISHAAN\Desktop\KINECT\Final Kinect\WindowsGame4\Downloads\Sun\Sun\Textures\Agni-Baume-land.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\ISHAAN\Desktop\KINECT\Final Kinect\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\Agni-Baume-land_1.xnb</Output>
+      <Time>2012-06-29T13:02:06+05:30</Time>
+    </Item>
+    <Item>
+      <Source>earth1.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\earth1_0.xml</Output>
+      <Time>2012-06-18T23:45:20+05:30</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\ISHAAN\Desktop\KINECT\Final Kinect\WindowsGame4\Downloads\Sun\2_no_clouds_8k.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\ISHAAN\Desktop\KINECT\Final Kinect\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\2_no_clouds_8k_0.xnb</Output>
+      <Time>2012-06-29T13:02:04+05:30</Time>
+    </Item>
+    <Item>
+      <Source>moon1.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\moon1_0.xml</Output>
+      <Time>2012-06-19T00:38:42+05:30</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\ISHAAN\Desktop\KINECT\Final Kinect\WindowsGame4\Downloads\Sun\213.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\ISHAAN\Desktop\KINECT\Final Kinect\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\213_0.xnb</Output>
+      <Time>2012-06-19T01:41:54+05:30</Time>
+    </Item>
+    <Item>
+      <Source>moon2.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\moon2_0.xml</Output>
+      <Time>2012-06-19T01:53:50+05:30</Time>
+    </Item>
+    <Item>
+      <Source>mercury1.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\mercury1_0.xml</Output>
+      <Time>2012-06-19T18:49:04+05:30</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\ISHAAN\Desktop\KINECT\Final Kinect\WindowsGame4\Downloads\Sun\mercury.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\ISHAAN\Desktop\KINECT\Final Kinect\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\mercury_0.xnb</Output>
+      <Time>2012-06-29T13:02:04+05:30</Time>
+    </Item>
+    <Item>
+      <Source>venus2.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\venus2_0.xml</Output>
+      <Time>2012-06-19T18:49:04+05:30</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\ISHAAN\Desktop\KINECT\Final Kinect\WindowsGame4\Downloads\Sun\32.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\ISHAAN\Desktop\KINECT\Final Kinect\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\32_0.xnb</Output>
+      <Time>2012-06-29T13:02:04+05:30</Time>
+    </Item>
+    <Item>
+      <Source>hat5.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\hat5_0.xml</Output>
+      <Time>2012-06-20T02:44:26+05:30</Time>
+    </Item>
+    <Item>
+      <Source>hat4.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\ISHAAN\Desktop\KINECT\Final Kinect\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\hat4_0.xnb</Output>
+      <Time>2012-06-29T13:02:12+05:30</Time>
+    </Item>
+    <Item>
+      <Source>hat3.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\ISHAAN\Desktop\KINECT\Final Kinect\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\hat3_0.xnb</Output>
+      <Time>2012-06-29T13:02:12+05:30</Time>
+    </Item>
+    <Item>
+      <Source>wand.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\wand_0.xml</Output>
+      <Time>2012-06-20T16:16:38+05:30</Time>
+    </Item>
+    <Item>
+      <Source>wand.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\ISHAAN\Desktop\KINECT\Final Kinect\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\wand_0.xnb</Output>
+      <Time>2012-06-29T13:02:12+05:30</Time>
+    </Item>
+    <Item>
+      <Source>rabbit.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\rabbit_0.xml</Output>
+      <Time>2012-06-22T14:51:48+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Rabbid\rabbid eye.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\ISHAAN\Desktop\KINECT\Final Kinect\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\Rabbid\rabbid eye_0.xnb</Output>
+      <Time>2012-06-29T13:02:12+05:30</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\ISHAAN\Desktop\KINECT\Final Kinect\WindowsGame4\WindowsGame4Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\ISHAAN\Desktop\KINECT\Final Kinect\WindowsGame4\WindowsGame4\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\ISHAAN\Desktop\KINECT\Final Kinect\WindowsGame4\WindowsGame4Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\ISHAAN\Desktop\KINECT\Final Kinect\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Users\ISHAAN\Desktop\KINECT\Final Kinect\WindowsGame4\Microsoft.Samples.Kinect.SwipeGestureRecognizer.dll</Key>
+        <Value>2012-05-10T15:08:28+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\Microsoft.Kinect\v4.0_1.5.0.0__31bf3856ad364e35\Microsoft.Kinect.dll</Key>
+        <Value>2012-06-04T12:37:38.8579791+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-06-02T03:07:54.6961333+05:30</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

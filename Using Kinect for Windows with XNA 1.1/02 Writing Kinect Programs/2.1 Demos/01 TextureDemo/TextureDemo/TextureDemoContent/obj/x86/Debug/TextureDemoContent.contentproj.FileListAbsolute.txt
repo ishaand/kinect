@@ -1,0 +1,4 @@
+C:\Users\Rob\Desktop\TextureDemo\TextureDemo\TextureDemoContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rob\Desktop\2010-2011 Year\Kinect Courseware\02 Writing Kinect Programs\01 TextureDemo\TextureDemo\TextureDemoContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rob\Desktop\Kinect Courseware\02 Writing Kinect Programs\01 TextureDemo\TextureDemo\TextureDemoContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rob\Desktop\Kinect Courseware\02 Writing Kinect Programs\2.1 Demos\01 TextureDemo\TextureDemo\TextureDemoContent\obj\x86\Debug\ResolveAssemblyReference.cache

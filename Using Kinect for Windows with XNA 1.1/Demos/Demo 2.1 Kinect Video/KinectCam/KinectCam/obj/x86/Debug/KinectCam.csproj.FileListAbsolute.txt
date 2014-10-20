@@ -1,0 +1,6 @@
+C:\Users\Rob\Desktop\KinectCam\KinectCam\KinectCam\bin\x86\Debug\KinectCam.exe
+C:\Users\Rob\Desktop\KinectCam\KinectCam\KinectCam\bin\x86\Debug\KinectCam.pdb
+C:\Users\Rob\Desktop\KinectCam\KinectCam\KinectCam\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rob\Desktop\KinectCam\KinectCam\KinectCam\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Rob\Desktop\KinectCam\KinectCam\KinectCam\obj\x86\Debug\KinectCam.exe
+C:\Users\Rob\Desktop\KinectCam\KinectCam\KinectCam\obj\x86\Debug\KinectCam.pdb

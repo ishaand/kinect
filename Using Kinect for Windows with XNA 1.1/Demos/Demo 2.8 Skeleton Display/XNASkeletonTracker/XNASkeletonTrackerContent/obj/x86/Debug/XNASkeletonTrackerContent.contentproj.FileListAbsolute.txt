@@ -1,0 +1,2 @@
+C:\Users\Rob\Desktop\XNASkeletonTracker\XNASkeletonTracker\XNASkeletonTrackerContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rob\Desktop\Kinect Courseware\Demos\Demo 2.8 Skeleton Display\XNASkeletonTracker\XNASkeletonTrackerContent\obj\x86\Debug\ResolveAssemblyReference.cache

@@ -1,0 +1,21 @@
+C:\Users\Rob\Desktop\KinectParrot\KinectParrot\KinectParrot\bin\x86\Debug\Content\MessageFont.xnb
+C:\Users\Rob\Desktop\KinectParrot\KinectParrot\KinectParrot\bin\x86\Debug\KinectParrot.exe
+C:\Users\Rob\Desktop\KinectParrot\KinectParrot\KinectParrot\bin\x86\Debug\KinectParrot.pdb
+C:\Users\Rob\Desktop\KinectParrot\KinectParrot\KinectParrot\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rob\Desktop\KinectParrot\KinectParrot\KinectParrot\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Rob\Desktop\KinectParrot\KinectParrot\KinectParrot\obj\x86\Debug\KinectParrot.exe
+C:\Users\Rob\Desktop\KinectParrot\KinectParrot\KinectParrot\obj\x86\Debug\KinectParrot.pdb
+C:\Users\Rob\Desktop\Kinect Courseware\Demos\Demo 2.7 Kinect Parrot\KinectParrot\KinectParrot\bin\x86\Debug\Content\MessageFont.xnb
+C:\Users\Rob\Desktop\Kinect Courseware\Demos\Demo 2.7 Kinect Parrot\KinectParrot\KinectParrot\bin\x86\Debug\KinectParrot.exe
+C:\Users\Rob\Desktop\Kinect Courseware\Demos\Demo 2.7 Kinect Parrot\KinectParrot\KinectParrot\bin\x86\Debug\KinectParrot.pdb
+C:\Users\Rob\Desktop\Kinect Courseware\Demos\Demo 2.7 Kinect Parrot\KinectParrot\KinectParrot\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rob\Desktop\Kinect Courseware\Demos\Demo 2.7 Kinect Parrot\KinectParrot\KinectParrot\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Rob\Desktop\Kinect Courseware\Demos\Demo 2.7 Kinect Parrot\KinectParrot\KinectParrot\obj\x86\Debug\KinectParrot.exe
+C:\Users\Rob\Desktop\Kinect Courseware\Demos\Demo 2.7 Kinect Parrot\KinectParrot\KinectParrot\obj\x86\Debug\KinectParrot.pdb
+C:\Users\ISHAAN\Desktop\Using Kinect for Windows with XNA 1.1\Demos\Demo 2.7 Kinect Parrot\KinectParrot\KinectParrot\bin\x86\Debug\Content\MessageFont.xnb
+C:\Users\ISHAAN\Desktop\Using Kinect for Windows with XNA 1.1\Demos\Demo 2.7 Kinect Parrot\KinectParrot\KinectParrot\bin\x86\Debug\KinectParrot.exe
+C:\Users\ISHAAN\Desktop\Using Kinect for Windows with XNA 1.1\Demos\Demo 2.7 Kinect Parrot\KinectParrot\KinectParrot\bin\x86\Debug\KinectParrot.pdb
+C:\Users\ISHAAN\Desktop\Using Kinect for Windows with XNA 1.1\Demos\Demo 2.7 Kinect Parrot\KinectParrot\KinectParrot\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ISHAAN\Desktop\Using Kinect for Windows with XNA 1.1\Demos\Demo 2.7 Kinect Parrot\KinectParrot\KinectParrot\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\ISHAAN\Desktop\Using Kinect for Windows with XNA 1.1\Demos\Demo 2.7 Kinect Parrot\KinectParrot\KinectParrot\obj\x86\Debug\KinectParrot.exe
+C:\Users\ISHAAN\Desktop\Using Kinect for Windows with XNA 1.1\Demos\Demo 2.7 Kinect Parrot\KinectParrot\KinectParrot\obj\x86\Debug\KinectParrot.pdb

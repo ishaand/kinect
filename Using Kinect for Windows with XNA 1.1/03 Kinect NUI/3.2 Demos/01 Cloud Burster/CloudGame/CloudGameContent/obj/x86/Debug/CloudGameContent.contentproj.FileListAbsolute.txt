@@ -1,0 +1,8 @@
+C:\Users\Rob\Desktop\CloudGame\CloudGame\CloudGameContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rob\Desktop\Kinect Courseware\03 Kinect NUI\CloudGame\CloudGame\CloudGameContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rob\Desktop\Kinect Courseware\03 Kinect NUI\Final Cloudgame\CloudGame\CloudGameContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rob\Desktop\Kinect Courseware\03 Kinect NUI\Final Cloudgame - Copy\CloudGame\CloudGameContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rob\Desktop\Kinect Courseware\Demos\Demo 3.1 Cloud Game\CloudGame\CloudGameContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rob\Desktop\Kinect Courseware\Demos\Demo 3.1 Cloud Game - Copy\CloudGame\CloudGameContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rob\Desktop\Kinect Courseware\03 Kinect NUI\3.2 Demos\01 Cloud Burster\CloudGame\CloudGameContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ISHAAN\Desktop\Using Kinect for Windows with XNA 1.1\03 Kinect NUI\3.2 Demos\01 Cloud Burster\CloudGame\CloudGameContent\obj\x86\Debug\ResolveAssemblyReference.cache

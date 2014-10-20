@@ -1,0 +1,24 @@
+C:\Users\Rob\Desktop\TextureDemo\TextureDemo\TextureDemo\bin\x86\Debug\TextureDemo.exe
+C:\Users\Rob\Desktop\TextureDemo\TextureDemo\TextureDemo\bin\x86\Debug\TextureDemo.pdb
+C:\Users\Rob\Desktop\TextureDemo\TextureDemo\TextureDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rob\Desktop\TextureDemo\TextureDemo\TextureDemo\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Rob\Desktop\TextureDemo\TextureDemo\TextureDemo\obj\x86\Debug\TextureDemo.exe
+C:\Users\Rob\Desktop\TextureDemo\TextureDemo\TextureDemo\obj\x86\Debug\TextureDemo.pdb
+C:\Users\Rob\Desktop\2010-2011 Year\Kinect Courseware\02 Writing Kinect Programs\01 TextureDemo\TextureDemo\TextureDemo\bin\x86\Debug\TextureDemo.exe
+C:\Users\Rob\Desktop\2010-2011 Year\Kinect Courseware\02 Writing Kinect Programs\01 TextureDemo\TextureDemo\TextureDemo\bin\x86\Debug\TextureDemo.pdb
+C:\Users\Rob\Desktop\2010-2011 Year\Kinect Courseware\02 Writing Kinect Programs\01 TextureDemo\TextureDemo\TextureDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rob\Desktop\2010-2011 Year\Kinect Courseware\02 Writing Kinect Programs\01 TextureDemo\TextureDemo\TextureDemo\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Rob\Desktop\2010-2011 Year\Kinect Courseware\02 Writing Kinect Programs\01 TextureDemo\TextureDemo\TextureDemo\obj\x86\Debug\TextureDemo.exe
+C:\Users\Rob\Desktop\2010-2011 Year\Kinect Courseware\02 Writing Kinect Programs\01 TextureDemo\TextureDemo\TextureDemo\obj\x86\Debug\TextureDemo.pdb
+C:\Users\Rob\Desktop\Kinect Courseware\02 Writing Kinect Programs\01 TextureDemo\TextureDemo\TextureDemo\bin\x86\Debug\TextureDemo.exe
+C:\Users\Rob\Desktop\Kinect Courseware\02 Writing Kinect Programs\01 TextureDemo\TextureDemo\TextureDemo\bin\x86\Debug\TextureDemo.pdb
+C:\Users\Rob\Desktop\Kinect Courseware\02 Writing Kinect Programs\01 TextureDemo\TextureDemo\TextureDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rob\Desktop\Kinect Courseware\02 Writing Kinect Programs\01 TextureDemo\TextureDemo\TextureDemo\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Rob\Desktop\Kinect Courseware\02 Writing Kinect Programs\01 TextureDemo\TextureDemo\TextureDemo\obj\x86\Debug\TextureDemo.exe
+C:\Users\Rob\Desktop\Kinect Courseware\02 Writing Kinect Programs\01 TextureDemo\TextureDemo\TextureDemo\obj\x86\Debug\TextureDemo.pdb
+C:\Users\Rob\Desktop\Kinect Courseware\02 Writing Kinect Programs\2.1 Demos\01 TextureDemo\TextureDemo\TextureDemo\bin\x86\Debug\TextureDemo.exe
+C:\Users\Rob\Desktop\Kinect Courseware\02 Writing Kinect Programs\2.1 Demos\01 TextureDemo\TextureDemo\TextureDemo\bin\x86\Debug\TextureDemo.pdb
+C:\Users\Rob\Desktop\Kinect Courseware\02 Writing Kinect Programs\2.1 Demos\01 TextureDemo\TextureDemo\TextureDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rob\Desktop\Kinect Courseware\02 Writing Kinect Programs\2.1 Demos\01 TextureDemo\TextureDemo\TextureDemo\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Rob\Desktop\Kinect Courseware\02 Writing Kinect Programs\2.1 Demos\01 TextureDemo\TextureDemo\TextureDemo\obj\x86\Debug\TextureDemo.exe
+C:\Users\Rob\Desktop\Kinect Courseware\02 Writing Kinect Programs\2.1 Demos\01 TextureDemo\TextureDemo\TextureDemo\obj\x86\Debug\TextureDemo.pdb

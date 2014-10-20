@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{ECD4056C-FBB4-49C5-A331-956CDEB3569B}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Rob\Desktop\Kinect Courseware\02 Writing Kinect Programs\2.1 Demos\01 TextureDemo\TextureDemo\TextureDemoContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Rob\Desktop\Kinect Courseware\02 Writing Kinect Programs\2.1 Demos\01 TextureDemo\TextureDemo\TextureDemo\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Rob\Desktop\Kinect Courseware\02 Writing Kinect Programs\2.1 Demos\01 TextureDemo\TextureDemo\TextureDemo\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Rob\Desktop\Kinect Courseware\02 Writing Kinect Programs\2.1 Demos\01 TextureDemo\TextureDemo\TextureDemo\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2011-09-30T23:31:29.4197747+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

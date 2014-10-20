@@ -1,0 +1,83 @@
+C:\Users\Rob\Desktop\CloudGame\CloudGame\CloudGame\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rob\Desktop\CloudGame\CloudGame\CloudGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Rob\Desktop\CloudGame\CloudGame\CloudGame\bin\x86\Debug\CloudGame.exe
+C:\Users\Rob\Desktop\CloudGame\CloudGame\CloudGame\bin\x86\Debug\CloudGame.pdb
+C:\Users\Rob\Desktop\CloudGame\CloudGame\CloudGame\obj\x86\Debug\CloudGame.exe
+C:\Users\Rob\Desktop\CloudGame\CloudGame\CloudGame\obj\x86\Debug\CloudGame.pdb
+C:\Users\Rob\Desktop\CloudGame\CloudGame\CloudGame\bin\x86\Debug\Content\Cloud.xnb
+C:\Users\Rob\Desktop\CloudGame\CloudGame\CloudGame\bin\x86\Debug\Content\Pop.xnb
+C:\Users\Rob\Desktop\CloudGame\CloudGame\CloudGame\bin\x86\Debug\Content\pin.xnb
+C:\Users\Rob\Desktop\CloudGame\CloudGame\CloudGame\bin\x86\Debug\Content\MessageFont.xnb
+C:\Users\Rob\Desktop\CloudGame\CloudGame\CloudGame\bin\x86\Debug\Content\whiteDot.xnb
+C:\Users\Rob\Desktop\Kinect Courseware\03 Kinect NUI\CloudGame\CloudGame\CloudGame\bin\x86\Debug\Content\Cloud.xnb
+C:\Users\Rob\Desktop\Kinect Courseware\03 Kinect NUI\CloudGame\CloudGame\CloudGame\bin\x86\Debug\Content\pin.xnb
+C:\Users\Rob\Desktop\Kinect Courseware\03 Kinect NUI\CloudGame\CloudGame\CloudGame\bin\x86\Debug\Content\whiteDot.xnb
+C:\Users\Rob\Desktop\Kinect Courseware\03 Kinect NUI\CloudGame\CloudGame\CloudGame\bin\x86\Debug\Content\Pop.xnb
+C:\Users\Rob\Desktop\Kinect Courseware\03 Kinect NUI\CloudGame\CloudGame\CloudGame\bin\x86\Debug\Content\MessageFont.xnb
+C:\Users\Rob\Desktop\Kinect Courseware\03 Kinect NUI\CloudGame\CloudGame\CloudGame\bin\x86\Debug\CloudGame.exe
+C:\Users\Rob\Desktop\Kinect Courseware\03 Kinect NUI\CloudGame\CloudGame\CloudGame\bin\x86\Debug\CloudGame.pdb
+C:\Users\Rob\Desktop\Kinect Courseware\03 Kinect NUI\CloudGame\CloudGame\CloudGame\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rob\Desktop\Kinect Courseware\03 Kinect NUI\CloudGame\CloudGame\CloudGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Rob\Desktop\Kinect Courseware\03 Kinect NUI\CloudGame\CloudGame\CloudGame\obj\x86\Debug\CloudGame.exe
+C:\Users\Rob\Desktop\Kinect Courseware\03 Kinect NUI\CloudGame\CloudGame\CloudGame\obj\x86\Debug\CloudGame.pdb
+C:\Users\Rob\Desktop\Kinect Courseware\03 Kinect NUI\CloudGame\CloudGame\CloudGame\bin\x86\Debug\Content\LegSection.xnb
+C:\Users\Rob\Desktop\Kinect Courseware\03 Kinect NUI\Final Cloudgame\CloudGame\CloudGame\bin\x86\Debug\Content\Cloud.xnb
+C:\Users\Rob\Desktop\Kinect Courseware\03 Kinect NUI\Final Cloudgame\CloudGame\CloudGame\bin\x86\Debug\Content\pin.xnb
+C:\Users\Rob\Desktop\Kinect Courseware\03 Kinect NUI\Final Cloudgame\CloudGame\CloudGame\bin\x86\Debug\Content\whiteDot.xnb
+C:\Users\Rob\Desktop\Kinect Courseware\03 Kinect NUI\Final Cloudgame\CloudGame\CloudGame\bin\x86\Debug\Content\LegSection.xnb
+C:\Users\Rob\Desktop\Kinect Courseware\03 Kinect NUI\Final Cloudgame\CloudGame\CloudGame\bin\x86\Debug\Content\Pop.xnb
+C:\Users\Rob\Desktop\Kinect Courseware\03 Kinect NUI\Final Cloudgame\CloudGame\CloudGame\bin\x86\Debug\Content\MessageFont.xnb
+C:\Users\Rob\Desktop\Kinect Courseware\03 Kinect NUI\Final Cloudgame\CloudGame\CloudGame\bin\x86\Debug\CloudGame.exe
+C:\Users\Rob\Desktop\Kinect Courseware\03 Kinect NUI\Final Cloudgame\CloudGame\CloudGame\bin\x86\Debug\CloudGame.pdb
+C:\Users\Rob\Desktop\Kinect Courseware\03 Kinect NUI\Final Cloudgame\CloudGame\CloudGame\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rob\Desktop\Kinect Courseware\03 Kinect NUI\Final Cloudgame\CloudGame\CloudGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Rob\Desktop\Kinect Courseware\03 Kinect NUI\Final Cloudgame\CloudGame\CloudGame\obj\x86\Debug\CloudGame.exe
+C:\Users\Rob\Desktop\Kinect Courseware\03 Kinect NUI\Final Cloudgame\CloudGame\CloudGame\obj\x86\Debug\CloudGame.pdb
+C:\Users\Rob\Desktop\Kinect Courseware\03 Kinect NUI\Final Cloudgame - Copy\CloudGame\CloudGame\bin\x86\Debug\Content\Cloud.xnb
+C:\Users\Rob\Desktop\Kinect Courseware\03 Kinect NUI\Final Cloudgame - Copy\CloudGame\CloudGame\bin\x86\Debug\Content\pin.xnb
+C:\Users\Rob\Desktop\Kinect Courseware\03 Kinect NUI\Final Cloudgame - Copy\CloudGame\CloudGame\bin\x86\Debug\Content\whiteDot.xnb
+C:\Users\Rob\Desktop\Kinect Courseware\03 Kinect NUI\Final Cloudgame - Copy\CloudGame\CloudGame\bin\x86\Debug\Content\Pop.xnb
+C:\Users\Rob\Desktop\Kinect Courseware\03 Kinect NUI\Final Cloudgame - Copy\CloudGame\CloudGame\bin\x86\Debug\Content\MessageFont.xnb
+C:\Users\Rob\Desktop\Kinect Courseware\03 Kinect NUI\Final Cloudgame - Copy\CloudGame\CloudGame\bin\x86\Debug\CloudGame.exe
+C:\Users\Rob\Desktop\Kinect Courseware\03 Kinect NUI\Final Cloudgame - Copy\CloudGame\CloudGame\bin\x86\Debug\CloudGame.pdb
+C:\Users\Rob\Desktop\Kinect Courseware\03 Kinect NUI\Final Cloudgame - Copy\CloudGame\CloudGame\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rob\Desktop\Kinect Courseware\03 Kinect NUI\Final Cloudgame - Copy\CloudGame\CloudGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Rob\Desktop\Kinect Courseware\03 Kinect NUI\Final Cloudgame - Copy\CloudGame\CloudGame\obj\x86\Debug\CloudGame.exe
+C:\Users\Rob\Desktop\Kinect Courseware\03 Kinect NUI\Final Cloudgame - Copy\CloudGame\CloudGame\obj\x86\Debug\CloudGame.pdb
+C:\Users\Rob\Desktop\Kinect Courseware\03 Kinect NUI\Final Cloudgame - Copy\CloudGame\CloudGame\bin\x86\Debug\Content\CloudGameBackground.xnb
+C:\Users\Rob\Desktop\Kinect Courseware\Demos\Demo 3.1 Cloud Game\CloudGame\CloudGame\bin\x86\Debug\Content\Cloud.xnb
+C:\Users\Rob\Desktop\Kinect Courseware\Demos\Demo 3.1 Cloud Game\CloudGame\CloudGame\bin\x86\Debug\Content\pin.xnb
+C:\Users\Rob\Desktop\Kinect Courseware\Demos\Demo 3.1 Cloud Game\CloudGame\CloudGame\bin\x86\Debug\Content\whiteDot.xnb
+C:\Users\Rob\Desktop\Kinect Courseware\Demos\Demo 3.1 Cloud Game\CloudGame\CloudGame\bin\x86\Debug\Content\CloudGameBackground.xnb
+C:\Users\Rob\Desktop\Kinect Courseware\Demos\Demo 3.1 Cloud Game\CloudGame\CloudGame\bin\x86\Debug\Content\Pop.xnb
+C:\Users\Rob\Desktop\Kinect Courseware\Demos\Demo 3.1 Cloud Game\CloudGame\CloudGame\bin\x86\Debug\Content\MessageFont.xnb
+C:\Users\Rob\Desktop\Kinect Courseware\Demos\Demo 3.1 Cloud Game\CloudGame\CloudGame\bin\x86\Debug\CloudGame.exe
+C:\Users\Rob\Desktop\Kinect Courseware\Demos\Demo 3.1 Cloud Game\CloudGame\CloudGame\bin\x86\Debug\CloudGame.pdb
+C:\Users\Rob\Desktop\Kinect Courseware\Demos\Demo 3.1 Cloud Game\CloudGame\CloudGame\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rob\Desktop\Kinect Courseware\Demos\Demo 3.1 Cloud Game\CloudGame\CloudGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Rob\Desktop\Kinect Courseware\Demos\Demo 3.1 Cloud Game\CloudGame\CloudGame\obj\x86\Debug\CloudGame.exe
+C:\Users\Rob\Desktop\Kinect Courseware\Demos\Demo 3.1 Cloud Game\CloudGame\CloudGame\obj\x86\Debug\CloudGame.pdb
+C:\Users\Rob\Desktop\Kinect Courseware\Demos\Demo 3.1 Cloud Game - Copy\CloudGame\CloudGame\bin\x86\Debug\Content\Cloud.xnb
+C:\Users\Rob\Desktop\Kinect Courseware\Demos\Demo 3.1 Cloud Game - Copy\CloudGame\CloudGame\bin\x86\Debug\Content\pin.xnb
+C:\Users\Rob\Desktop\Kinect Courseware\Demos\Demo 3.1 Cloud Game - Copy\CloudGame\CloudGame\bin\x86\Debug\Content\whiteDot.xnb
+C:\Users\Rob\Desktop\Kinect Courseware\Demos\Demo 3.1 Cloud Game - Copy\CloudGame\CloudGame\bin\x86\Debug\Content\CloudGameBackground.xnb
+C:\Users\Rob\Desktop\Kinect Courseware\Demos\Demo 3.1 Cloud Game - Copy\CloudGame\CloudGame\bin\x86\Debug\Content\Pop.xnb
+C:\Users\Rob\Desktop\Kinect Courseware\Demos\Demo 3.1 Cloud Game - Copy\CloudGame\CloudGame\bin\x86\Debug\Content\MessageFont.xnb
+C:\Users\Rob\Desktop\Kinect Courseware\Demos\Demo 3.1 Cloud Game - Copy\CloudGame\CloudGame\bin\x86\Debug\CloudGame.exe
+C:\Users\Rob\Desktop\Kinect Courseware\Demos\Demo 3.1 Cloud Game - Copy\CloudGame\CloudGame\bin\x86\Debug\CloudGame.pdb
+C:\Users\Rob\Desktop\Kinect Courseware\Demos\Demo 3.1 Cloud Game - Copy\CloudGame\CloudGame\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rob\Desktop\Kinect Courseware\Demos\Demo 3.1 Cloud Game - Copy\CloudGame\CloudGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Rob\Desktop\Kinect Courseware\Demos\Demo 3.1 Cloud Game - Copy\CloudGame\CloudGame\obj\x86\Debug\CloudGame.exe
+C:\Users\Rob\Desktop\Kinect Courseware\Demos\Demo 3.1 Cloud Game - Copy\CloudGame\CloudGame\obj\x86\Debug\CloudGame.pdb
+C:\Users\Rob\Desktop\Kinect Courseware\Demos\Demo 3.2 Cloud Game Voice\CloudGame\CloudGame\bin\x86\Debug\Content\Cloud.xnb
+C:\Users\Rob\Desktop\Kinect Courseware\Demos\Demo 3.2 Cloud Game Voice\CloudGame\CloudGame\bin\x86\Debug\Content\pin.xnb
+C:\Users\Rob\Desktop\Kinect Courseware\Demos\Demo 3.2 Cloud Game Voice\CloudGame\CloudGame\bin\x86\Debug\Content\whiteDot.xnb
+C:\Users\Rob\Desktop\Kinect Courseware\Demos\Demo 3.2 Cloud Game Voice\CloudGame\CloudGame\bin\x86\Debug\Content\CloudGameBackground.xnb
+C:\Users\Rob\Desktop\Kinect Courseware\Demos\Demo 3.2 Cloud Game Voice\CloudGame\CloudGame\bin\x86\Debug\Content\Pop.xnb
+C:\Users\Rob\Desktop\Kinect Courseware\Demos\Demo 3.2 Cloud Game Voice\CloudGame\CloudGame\bin\x86\Debug\Content\MessageFont.xnb
+C:\Users\Rob\Desktop\Kinect Courseware\Demos\Demo 3.2 Cloud Game Voice\CloudGame\CloudGame\bin\x86\Debug\CloudGame.exe
+C:\Users\Rob\Desktop\Kinect Courseware\Demos\Demo 3.2 Cloud Game Voice\CloudGame\CloudGame\bin\x86\Debug\CloudGame.pdb
+C:\Users\Rob\Desktop\Kinect Courseware\Demos\Demo 3.2 Cloud Game Voice\CloudGame\CloudGame\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rob\Desktop\Kinect Courseware\Demos\Demo 3.2 Cloud Game Voice\CloudGame\CloudGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Rob\Desktop\Kinect Courseware\Demos\Demo 3.2 Cloud Game Voice\CloudGame\CloudGame\obj\x86\Debug\CloudGame.exe
+C:\Users\Rob\Desktop\Kinect Courseware\Demos\Demo 3.2 Cloud Game Voice\CloudGame\CloudGame\obj\x86\Debug\CloudGame.pdb

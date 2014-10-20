@@ -1,0 +1,2 @@
+C:\Users\Rob\Desktop\KinectCam\KinectCam\KinectCamContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rob\Desktop\Kinect Courseware\01 The Kinect Sensor\01 XNAKinectCameraDemo\KinectCam\KinectCamContent\obj\x86\Debug\ResolveAssemblyReference.cache

@@ -1,0 +1,32 @@
+C:\Users\Rob\Desktop\XNASkeletonTracker\XNASkeletonTracker\XNASkeletonTracker\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rob\Desktop\XNASkeletonTracker\XNASkeletonTracker\XNASkeletonTracker\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Rob\Desktop\XNASkeletonTracker\XNASkeletonTracker\XNASkeletonTracker\bin\x86\Debug\Content\MessageFont.xnb
+C:\Users\Rob\Desktop\XNASkeletonTracker\XNASkeletonTracker\XNASkeletonTracker\bin\x86\Debug\XNASkeletonTracker.exe
+C:\Users\Rob\Desktop\XNASkeletonTracker\XNASkeletonTracker\XNASkeletonTracker\bin\x86\Debug\XNASkeletonTracker.pdb
+C:\Users\Rob\Desktop\XNASkeletonTracker\XNASkeletonTracker\XNASkeletonTracker\obj\x86\Debug\XNASkeletonTracker.exe
+C:\Users\Rob\Desktop\XNASkeletonTracker\XNASkeletonTracker\XNASkeletonTracker\obj\x86\Debug\XNASkeletonTracker.pdb
+C:\Users\Rob\Desktop\XNASkeletonTracker\XNASkeletonTracker\XNASkeletonTracker\bin\x86\Debug\Content\whiteDot.xnb
+C:\Users\Rob\Desktop\Kinect Courseware\Demos\Demo 2.8 Skeleton Display\XNASkeletonTracker\XNASkeletonTracker\bin\x86\Debug\Content\MessageFont.xnb
+C:\Users\Rob\Desktop\Kinect Courseware\Demos\Demo 2.8 Skeleton Display\XNASkeletonTracker\XNASkeletonTracker\bin\x86\Debug\Content\whiteDot.xnb
+C:\Users\Rob\Desktop\Kinect Courseware\Demos\Demo 2.8 Skeleton Display\XNASkeletonTracker\XNASkeletonTracker\bin\x86\Debug\XNASkeletonTracker.exe
+C:\Users\Rob\Desktop\Kinect Courseware\Demos\Demo 2.8 Skeleton Display\XNASkeletonTracker\XNASkeletonTracker\bin\x86\Debug\XNASkeletonTracker.pdb
+C:\Users\Rob\Desktop\Kinect Courseware\Demos\Demo 2.8 Skeleton Display\XNASkeletonTracker\XNASkeletonTracker\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rob\Desktop\Kinect Courseware\Demos\Demo 2.8 Skeleton Display\XNASkeletonTracker\XNASkeletonTracker\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Rob\Desktop\Kinect Courseware\Demos\Demo 2.8 Skeleton Display\XNASkeletonTracker\XNASkeletonTracker\obj\x86\Debug\XNASkeletonTracker.exe
+C:\Users\Rob\Desktop\Kinect Courseware\Demos\Demo 2.8 Skeleton Display\XNASkeletonTracker\XNASkeletonTracker\obj\x86\Debug\XNASkeletonTracker.pdb
+C:\Users\Rob\Desktop\Kinect Courseware\03 Kinect NUI\3.1 Demos\Demo 2.8 Skeleton Display\XNASkeletonTracker\XNASkeletonTracker\bin\x86\Debug\Content\MessageFont.xnb
+C:\Users\Rob\Desktop\Kinect Courseware\03 Kinect NUI\3.1 Demos\Demo 2.8 Skeleton Display\XNASkeletonTracker\XNASkeletonTracker\bin\x86\Debug\Content\whiteDot.xnb
+C:\Users\Rob\Desktop\Kinect Courseware\03 Kinect NUI\3.1 Demos\Demo 2.8 Skeleton Display\XNASkeletonTracker\XNASkeletonTracker\bin\x86\Debug\XNASkeletonTracker.exe
+C:\Users\Rob\Desktop\Kinect Courseware\03 Kinect NUI\3.1 Demos\Demo 2.8 Skeleton Display\XNASkeletonTracker\XNASkeletonTracker\bin\x86\Debug\XNASkeletonTracker.pdb
+C:\Users\Rob\Desktop\Kinect Courseware\03 Kinect NUI\3.1 Demos\Demo 2.8 Skeleton Display\XNASkeletonTracker\XNASkeletonTracker\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rob\Desktop\Kinect Courseware\03 Kinect NUI\3.1 Demos\Demo 2.8 Skeleton Display\XNASkeletonTracker\XNASkeletonTracker\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Rob\Desktop\Kinect Courseware\03 Kinect NUI\3.1 Demos\Demo 2.8 Skeleton Display\XNASkeletonTracker\XNASkeletonTracker\obj\x86\Debug\XNASkeletonTracker.exe
+C:\Users\Rob\Desktop\Kinect Courseware\03 Kinect NUI\3.1 Demos\Demo 2.8 Skeleton Display\XNASkeletonTracker\XNASkeletonTracker\obj\x86\Debug\XNASkeletonTracker.pdb
+C:\Users\Rob\Desktop\Kinect Courseware\03 Kinect NUI\3.1 Demos\01 Skeleton Display\XNASkeletonTracker\XNASkeletonTracker\bin\x86\Debug\Content\MessageFont.xnb
+C:\Users\Rob\Desktop\Kinect Courseware\03 Kinect NUI\3.1 Demos\01 Skeleton Display\XNASkeletonTracker\XNASkeletonTracker\bin\x86\Debug\Content\whiteDot.xnb
+C:\Users\Rob\Desktop\Kinect Courseware\03 Kinect NUI\3.1 Demos\01 Skeleton Display\XNASkeletonTracker\XNASkeletonTracker\bin\x86\Debug\XNASkeletonTracker.exe
+C:\Users\Rob\Desktop\Kinect Courseware\03 Kinect NUI\3.1 Demos\01 Skeleton Display\XNASkeletonTracker\XNASkeletonTracker\bin\x86\Debug\XNASkeletonTracker.pdb
+C:\Users\Rob\Desktop\Kinect Courseware\03 Kinect NUI\3.1 Demos\01 Skeleton Display\XNASkeletonTracker\XNASkeletonTracker\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rob\Desktop\Kinect Courseware\03 Kinect NUI\3.1 Demos\01 Skeleton Display\XNASkeletonTracker\XNASkeletonTracker\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Rob\Desktop\Kinect Courseware\03 Kinect NUI\3.1 Demos\01 Skeleton Display\XNASkeletonTracker\XNASkeletonTracker\obj\x86\Debug\XNASkeletonTracker.exe
+C:\Users\Rob\Desktop\Kinect Courseware\03 Kinect NUI\3.1 Demos\01 Skeleton Display\XNASkeletonTracker\XNASkeletonTracker\obj\x86\Debug\XNASkeletonTracker.pdb

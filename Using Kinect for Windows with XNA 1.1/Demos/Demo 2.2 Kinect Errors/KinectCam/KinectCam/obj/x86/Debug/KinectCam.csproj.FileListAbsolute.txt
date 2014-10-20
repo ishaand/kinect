@@ -1,0 +1,20 @@
+C:\Users\Rob\Desktop\KinectCam\KinectCam\KinectCam\bin\x86\Debug\KinectCam.exe
+C:\Users\Rob\Desktop\KinectCam\KinectCam\KinectCam\bin\x86\Debug\KinectCam.pdb
+C:\Users\Rob\Desktop\KinectCam\KinectCam\KinectCam\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rob\Desktop\KinectCam\KinectCam\KinectCam\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Rob\Desktop\KinectCam\KinectCam\KinectCam\obj\x86\Debug\KinectCam.exe
+C:\Users\Rob\Desktop\KinectCam\KinectCam\KinectCam\obj\x86\Debug\KinectCam.pdb
+C:\Users\Rob\Desktop\Kinect Courseware\Demos\Demo 2.1 Kinect Video - Copy\KinectCam\KinectCam\bin\x86\Debug\Content\MessageFont.xnb
+C:\Users\Rob\Desktop\Kinect Courseware\Demos\Demo 2.1 Kinect Video - Copy\KinectCam\KinectCam\bin\x86\Debug\KinectCam.exe
+C:\Users\Rob\Desktop\Kinect Courseware\Demos\Demo 2.1 Kinect Video - Copy\KinectCam\KinectCam\bin\x86\Debug\KinectCam.pdb
+C:\Users\Rob\Desktop\Kinect Courseware\Demos\Demo 2.1 Kinect Video - Copy\KinectCam\KinectCam\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rob\Desktop\Kinect Courseware\Demos\Demo 2.1 Kinect Video - Copy\KinectCam\KinectCam\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Rob\Desktop\Kinect Courseware\Demos\Demo 2.1 Kinect Video - Copy\KinectCam\KinectCam\obj\x86\Debug\KinectCam.exe
+C:\Users\Rob\Desktop\Kinect Courseware\Demos\Demo 2.1 Kinect Video - Copy\KinectCam\KinectCam\obj\x86\Debug\KinectCam.pdb
+C:\Users\Rob\Desktop\Kinect Courseware\Demos\Demo 2.2 Kinect Errors\KinectCam\KinectCam\bin\x86\Debug\Content\MessageFont.xnb
+C:\Users\Rob\Desktop\Kinect Courseware\Demos\Demo 2.2 Kinect Errors\KinectCam\KinectCam\bin\x86\Debug\KinectCam.exe
+C:\Users\Rob\Desktop\Kinect Courseware\Demos\Demo 2.2 Kinect Errors\KinectCam\KinectCam\bin\x86\Debug\KinectCam.pdb
+C:\Users\Rob\Desktop\Kinect Courseware\Demos\Demo 2.2 Kinect Errors\KinectCam\KinectCam\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rob\Desktop\Kinect Courseware\Demos\Demo 2.2 Kinect Errors\KinectCam\KinectCam\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Rob\Desktop\Kinect Courseware\Demos\Demo 2.2 Kinect Errors\KinectCam\KinectCam\obj\x86\Debug\KinectCam.exe
+C:\Users\Rob\Desktop\Kinect Courseware\Demos\Demo 2.2 Kinect Errors\KinectCam\KinectCam\obj\x86\Debug\KinectCam.pdb

@@ -1,0 +1,3 @@
+C:\Users\Rob\Desktop\XNAKinectDepthCamera\XNAKinectDepthCamera\XNAKinectDepthCameraContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rob\Desktop\2010-2011 Year\Kinect Courseware\01 The Kinect Sensor\03 XNAKinectDepthCamera Demo\XNAKinectDepthCamera\XNAKinectDepthCameraContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rob\Desktop\Kinect Courseware\Demos\Demo 2.4 Depth Camera\XNAKinectDepthCamera\XNAKinectDepthCameraContent\obj\x86\Debug\ResolveAssemblyReference.cache

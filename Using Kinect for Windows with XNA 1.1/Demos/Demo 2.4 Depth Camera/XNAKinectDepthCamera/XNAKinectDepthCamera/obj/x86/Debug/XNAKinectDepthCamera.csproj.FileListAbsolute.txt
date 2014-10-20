@@ -1,0 +1,19 @@
+C:\Users\Rob\Desktop\XNAKinectDepthCamera\XNAKinectDepthCamera\XNAKinectDepthCamera\bin\x86\Debug\XNAKinectDepthCamera.exe
+C:\Users\Rob\Desktop\XNAKinectDepthCamera\XNAKinectDepthCamera\XNAKinectDepthCamera\bin\x86\Debug\XNAKinectDepthCamera.pdb
+C:\Users\Rob\Desktop\XNAKinectDepthCamera\XNAKinectDepthCamera\XNAKinectDepthCamera\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rob\Desktop\XNAKinectDepthCamera\XNAKinectDepthCamera\XNAKinectDepthCamera\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Rob\Desktop\XNAKinectDepthCamera\XNAKinectDepthCamera\XNAKinectDepthCamera\obj\x86\Debug\XNAKinectDepthCamera.exe
+C:\Users\Rob\Desktop\XNAKinectDepthCamera\XNAKinectDepthCamera\XNAKinectDepthCamera\obj\x86\Debug\XNAKinectDepthCamera.pdb
+C:\Users\Rob\Desktop\2010-2011 Year\Kinect Courseware\01 The Kinect Sensor\03 XNAKinectDepthCamera Demo\XNAKinectDepthCamera\XNAKinectDepthCamera\bin\x86\Debug\XNAKinectDepthCamera.exe
+C:\Users\Rob\Desktop\2010-2011 Year\Kinect Courseware\01 The Kinect Sensor\03 XNAKinectDepthCamera Demo\XNAKinectDepthCamera\XNAKinectDepthCamera\bin\x86\Debug\XNAKinectDepthCamera.pdb
+C:\Users\Rob\Desktop\2010-2011 Year\Kinect Courseware\01 The Kinect Sensor\03 XNAKinectDepthCamera Demo\XNAKinectDepthCamera\XNAKinectDepthCamera\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rob\Desktop\2010-2011 Year\Kinect Courseware\01 The Kinect Sensor\03 XNAKinectDepthCamera Demo\XNAKinectDepthCamera\XNAKinectDepthCamera\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Rob\Desktop\2010-2011 Year\Kinect Courseware\01 The Kinect Sensor\03 XNAKinectDepthCamera Demo\XNAKinectDepthCamera\XNAKinectDepthCamera\obj\x86\Debug\XNAKinectDepthCamera.exe
+C:\Users\Rob\Desktop\2010-2011 Year\Kinect Courseware\01 The Kinect Sensor\03 XNAKinectDepthCamera Demo\XNAKinectDepthCamera\XNAKinectDepthCamera\obj\x86\Debug\XNAKinectDepthCamera.pdb
+C:\Users\Rob\Desktop\Kinect Courseware\Demos\Demo 2.4 Depth Camera\XNAKinectDepthCamera\XNAKinectDepthCamera\bin\x86\Debug\XNAKinectDepthCamera.exe
+C:\Users\Rob\Desktop\Kinect Courseware\Demos\Demo 2.4 Depth Camera\XNAKinectDepthCamera\XNAKinectDepthCamera\bin\x86\Debug\XNAKinectDepthCamera.pdb
+C:\Users\Rob\Desktop\Kinect Courseware\Demos\Demo 2.4 Depth Camera\XNAKinectDepthCamera\XNAKinectDepthCamera\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rob\Desktop\Kinect Courseware\Demos\Demo 2.4 Depth Camera\XNAKinectDepthCamera\XNAKinectDepthCamera\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Rob\Desktop\Kinect Courseware\Demos\Demo 2.4 Depth Camera\XNAKinectDepthCamera\XNAKinectDepthCamera\obj\x86\Debug\XNAKinectDepthCamera.exe
+C:\Users\Rob\Desktop\Kinect Courseware\Demos\Demo 2.4 Depth Camera\XNAKinectDepthCamera\XNAKinectDepthCamera\obj\x86\Debug\XNAKinectDepthCamera.pdb
+C:\Users\Rob\Desktop\Kinect Courseware\Demos\Demo 2.4 Depth Camera\XNAKinectDepthCamera\XNAKinectDepthCamera\bin\x86\Debug\Content\MessageFont.xnb
